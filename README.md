@@ -1,4 +1,4 @@
-# TECH-IZ.github.io
+# IZ.github.io
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
